@@ -1,4 +1,4 @@
-![logo](_media/fixe-logo.png ':size=300')
+![logo](./_media/fixe-logo.png ':size=300')
 
 # Fixe App Documentation
 - Restaurant bookkeeping served simpler

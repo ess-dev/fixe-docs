@@ -3,7 +3,7 @@
 ### First, let’s review our dashboard part what you will see here.
 ![dasboard](./_media/dashboard.png)
 
-1. Admin can add Events for all users registered to the Fixe App. On **Add Event** button click will open an event form where you can do the following things:
+1. Admin can add Events for all users registered to the **Fixe App**. On **Add Event** button click will open an event form where you can do the following things:
   * Select customers from the list
   * Choose an event type
   * Add description for the event
